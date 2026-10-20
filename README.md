@@ -1,4 +1,4 @@
-# excel-sales-dashboard-Copy
+# Decathlon-sales-dashboard-excel-Project
 Interactive Excel dashboard using Pivot Tables, Pivot Charts, Slicers, and KPI analysis to explore business performance and generate actionable insights.
 # 📊 Interactive Excel Dashboard | Sales & Business Analytics
 
@@ -44,10 +44,9 @@ The dashboard can be used to explore the dimensions and metrics available in the
 - Sales and revenue performance
 - Product or category comparisons
 - Regional or segment-level performance
-- Trends and patterns across available time periods
+- Trends and patterns across available Countries
 - Performance differences between selected categories
 
-*Note: The specific analysis depends on the fields available in the project dataset.*
 
 ## 💡 Business Value
 
@@ -59,25 +58,6 @@ The dashboard supports:
 - Interactive exploration of data
 - More organized reporting
 - Better-informed business discussions
-
-## 📷 Dashboard Preview
-
-Add a screenshot of your completed dashboard to this repository.
-
-Once uploaded, you can display it here by replacing `dashboard-preview.png` with the actual image filename:
-
-`![Excel Dashboard Preview](dashboard-preview.png)`
-
-## 📁 Repository Structure
-
-```text
-excel-sales-dashboard/
-├── README.md
-├── Excel-Sales-Dashboard.xlsx
-└── dashboard-preview.png
-```
-
-*Update the filenames above to match the files you upload.*
 
 ## 🚀 Key Learnings
 
@@ -92,12 +72,12 @@ Through this project, I practised:
 
 I am a Senior Team Leader with 14+ years of professional experience in sales, customer service, team management, and revenue operations. I am developing my skills in Data Analytics and Business Analytics to combine practical business knowledge with data-driven problem-solving.
 
-**Technical Skills:** Microsoft Excel | SQL | Tableau | Power BI | Business Analytics
+Technical Skills: Microsoft Excel | SQL | Tableau | Power BI | Business Analytics
 
 ## 📬 Connect With Me
 
-- GitHub:https://github.com/sagarjha013-lgtm
-- LinkedIn:https://www.linkedin.com/in/sagarjha1502/
+- GitHub: https://github.com/sagarjha013-lgtm
+- LinkedIn: https://www.linkedin.com/in/sagarjha1502/
 
 ---
 
